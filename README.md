@@ -1,6 +1,6 @@
 # 肥金体
 
-紹介文
+肥金体フォント。悪筆では無く、書体と言い張るため作成。
 
 ![preview](preview.png)
 
@@ -18,8 +18,8 @@
 
 ## ダウンロードとインストール
 
-[Releases](https://github.com/Majizou/Hikintai/releases/latest) から `Handwriting-v1.000.zip` をダウンロードして解凍し、
-`fonts/Handwriting-Regular.ttf` をダブルクリック →「インストール」。
+[Releases](https://github.com/Majizou/Hikintai/releases/latest) から `Hikintai-v1.001.zip` をダウンロードして解凍し、
+`fonts/Hikintai-Regular.ttf` をダブルクリック →「インストール」。
 
 ## ライセンス
 
@@ -28,4 +28,4 @@
 - 個人・商用を問わず、文書・画像・動画・Web サイト・アプリなどに自由に使えます。使って作ったものにライセンスは及びません。
 - フォントファイルの改変・再配布もできます。ただし改変版も OFL で公開すること、フォント単体での販売はしないことが条件です。
 
-Copyright 2026 肥金体
+Copyright 2026 Majizou
